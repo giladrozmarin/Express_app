@@ -1,0 +1,20 @@
+{
+  "Users": [
+    {
+      "id": 2,
+      "first_name": "Gilad",
+      "last_name": "Rozmarin",
+      "email": "dshillington1@lycos.com",
+      "gender": "Male",
+      "ip_address": "153.49.136.99"
+    },
+    {
+      "id": 3,
+      "first_name": "Duffie",
+      "last_name": "Shillington",
+      "email": "dshillington1@lycos.com",
+      "gender": "Male",
+      "ip_address": "153.49.136.99"
+    }
+  ]
+}
